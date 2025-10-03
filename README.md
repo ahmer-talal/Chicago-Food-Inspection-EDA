@@ -1,4 +1,4 @@
-Chicago Food Inspections – EDA
+# Chicago Food Inspections – EDA
 
 Exploratory Data Analysis (EDA) of the Chicago Food Inspections dataset to uncover compliance trends, violations, and risk patterns. The project applies systematic data cleaning, statistical analysis, and visualization to generate insights relevant for public health and business compliance.
 
