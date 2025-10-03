@@ -40,4 +40,4 @@ Dataset: Food Inspections
 
 Data Cleaning • Outlier Handling • EDA • Visualization • Business Insights
 
-⚡ Part of my data analytics portfolio — demonstrating how real-world datasets can be transformed into actionable insights.
+⚡ Part of my data analytics portfolio demonstrating how real-world datasets can be transformed into actionable insights.
